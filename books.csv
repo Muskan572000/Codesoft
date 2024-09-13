@@ -1,0 +1,100 @@
+bookId,authors,original_publication_year,original_title,title,language_code
+1,Suzanne Collins,2008,The Hunger Games,"The Hunger Games (The Hunger Games, #1)",eng
+2,"J.K. Rowling, Mary GrandPré",1997,Harry Potter and the Philosopher's Stone,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",eng
+3,Stephenie Meyer,2005,Twilight,"Twilight (Twilight, #1)",en-US
+4,Harper Lee,1960,To Kill a Mockingbird,To Kill a Mockingbird,eng
+5,F. Scott Fitzgerald,1925,The Great Gatsby,The Great Gatsby,eng
+6,John Green,2012,The Fault in Our Stars,The Fault in Our Stars,eng
+7,J.R.R. Tolkien,1937,The Hobbit or There and Back Again,The Hobbit,en-US
+8,J.D. Salinger,1951,The Catcher in the Rye,The Catcher in the Rye,eng
+9,Dan Brown,2000,Angels & Demons ,"Angels & Demons  (Robert Langdon, #1)",en-CA
+10,Jane Austen,1813,Pride and Prejudice,Pride and Prejudice,eng
+11,Khaled Hosseini,2003,The Kite Runner ,The Kite Runner,eng
+12,Veronica Roth,2011,Divergent,"Divergent (Divergent, #1)",eng
+13,"George Orwell, Erich Fromm, Celâl Üster",1949,Nineteen Eighty-Four,1984,eng
+14,George Orwell,1945,Animal Farm: A Fairy Story,Animal Farm,eng
+15,"Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",1947,Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,The Diary of a Young Girl,eng
+16,"Stieg Larsson, Reg Keeland",2005,Män som hatar kvinnor,"The Girl with the Dragon Tattoo (Millennium, #1)",eng
+17,Suzanne Collins,2009,Catching Fire,"Catching Fire (The Hunger Games, #2)",eng
+18,"J.K. Rowling, Mary GrandPré, Rufus Beck",1999,Harry Potter and the Prisoner of Azkaban,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",eng
+19,J.R.R. Tolkien,1954, The Fellowship of the Ring,"The Fellowship of the Ring (The Lord of the Rings, #1)",eng
+20,Suzanne Collins,2010,Mockingjay,"Mockingjay (The Hunger Games, #3)",eng
+21,"J.K. Rowling, Mary GrandPré",2003,Harry Potter and the Order of the Phoenix,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",eng
+22,Alice Sebold,2002,The Lovely Bones,The Lovely Bones,eng
+23,"J.K. Rowling, Mary GrandPré",1998,Harry Potter and the Chamber of Secrets,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",eng
+24,"J.K. Rowling, Mary GrandPré",2000,Harry Potter and the Goblet of Fire,"Harry Potter and the Goblet of Fire (Harry Potter, #4)",eng
+25,"J.K. Rowling, Mary GrandPré",2007,Harry Potter and the Deathly Hallows,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",eng
+26,Dan Brown,2003,The Da Vinci Code,"The Da Vinci Code (Robert Langdon, #2)",eng
+27,"J.K. Rowling, Mary GrandPré",2005,Harry Potter and the Half-Blood Prince,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",eng
+28,William Golding,1954,Lord of the Flies ,Lord of the Flies,eng
+29,"William Shakespeare, Robert           Jackson",1595,An Excellent conceited Tragedie of Romeo and Juliet,Romeo and Juliet,eng
+30,Gillian Flynn,2012,Gone Girl,Gone Girl,eng
+31,Kathryn Stockett,2009,The Help,The Help,eng
+32,John Steinbeck,1937,Of Mice and Men ,Of Mice and Men,eng
+33,Arthur Golden,1997,Memoirs of a Geisha,Memoirs of a Geisha,eng
+34,E.L. James,2011,Fifty Shades of Grey,"Fifty Shades of Grey (Fifty Shades, #1)",eng
+35,"Paulo Coelho, Alan R. Clarke",1988,O Alquimista,The Alchemist,eng
+36,Lois Lowry,1993,The Giver,"The Giver (The Giver, #1)",eng
+37,C.S. Lewis,1950,"The Lion, the Witch and the Wardrobe","The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",eng
+38,Audrey Niffenegger,2003,The Time Traveler's Wife,The Time Traveler's Wife,eng
+39,George R.R. Martin,1996,A Game of Thrones,"A Game of Thrones (A Song of Ice and Fire, #1)",eng
+40,Elizabeth Gilbert,2006,"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia","Eat, Pray, Love",eng
+41,Rick Riordan,2005,The Lightning Thief,"The Lightning Thief (Percy Jackson and the Olympians, #1)",eng
+42,Louisa May Alcott,1868,Little Women,"Little Women (Little Women, #1)",en-US
+43,"Charlotte Brontë, Michael Mason",1847,Jane Eyre,Jane Eyre,eng
+44,Nicholas Sparks,1996,The Notebook,"The Notebook (The Notebook, #1)",eng
+45,Yann Martel,2001,Life of Pi,Life of Pi,
+46,Sara Gruen,2006,Water for Elephants,Water for Elephants,eng
+47,Markus Zusak,2005,The Book Thief,The Book Thief,eng
+48,Ray Bradbury,1953,Fahrenheit 451,Fahrenheit 451,spa
+49,Stephenie Meyer,2006,"New Moon (Twilight, #2)","New Moon (Twilight, #2)",eng
+50,Shel Silverstein,1974,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Where the Sidewalk Ends,eng
+51,Cassandra Clare,2007,City of Bones,"City of Bones (The Mortal Instruments, #1)",eng
+52,Stephenie Meyer,2007,Eclipse,"Eclipse (Twilight, #3)",en-US
+53,Christopher Paolini,2002,Eragon,"Eragon (The Inheritance Cycle, #1)",en-US
+54,Douglas Adams,1979,The Hitchhiker's Guide to the Galaxy,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",en-US
+55,Aldous Huxley,1932,Brave New World,Brave New World,eng
+56,Stephenie Meyer,2008,Breaking Dawn,"Breaking Dawn (Twilight, #4)",en-US
+57,Sue Monk Kidd,2001,The Secret Life of Bees,The Secret Life of Bees,en-US
+58,"Mark Twain, John Seelye, Guy Cardwell",1884,The Adventures of Huckleberry Finn,The Adventures of Huckleberry Finn,eng
+59,"E.B. White, Garth Williams, Rosemary Wells",1952,Charlotte's Web,Charlotte's Web,eng
+60,Mark Haddon,2003,The Curious Incident of the Dog in the Night-Time,The Curious Incident of the Dog in the Night-Time,eng
+61,Paula Hawkins,2015,The Girl on the Train,The Girl on the Train,eng
+62,Philip Pullman,1995,Northern Lights,"The Golden Compass (His Dark Materials, #1)",eng
+63,"Emily Brontë, Richard J. Dunn",1847,Wuthering Heights,Wuthering Heights,eng
+64,Jodi Picoult,2004,My Sister's Keeper,My Sister's Keeper,eng
+65,Kurt Vonnegut Jr.,1969,"Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death ",Slaughterhouse-Five,eng
+66,Margaret Mitchell,1936,Gone with the Wind,Gone with the Wind,eng
+67,Khaled Hosseini,2007,A Thousand Splendid Suns,A Thousand Splendid Suns,eng
+68,Stephen Chbosky,1999,The Perks of Being a Wallflower,The Perks of Being a Wallflower,eng
+69,Veronica Roth,2012,Insurgent,"Insurgent (Divergent, #2)",eng
+70,Orson Scott Card,1985,Ender's Game,"Ender's Game (Ender's Saga, #1)",eng
+71,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",1818,"Frankenstein; or, The Modern Prometheus",Frankenstein,eng
+72,Stephen King,1977,The Shining,The Shining (The Shining #1),eng
+73,Stephenie Meyer,2008,The Host,"The Host (The Host, #1)",en-US
+74,John Green,2005,Looking for Alaska,Looking for Alaska,eng
+75,Helen Fielding,1996,,"Bridget Jones's Diary (Bridget Jones, #1)",eng
+76,"Jane Austen, Tony Tanner, Ros Ballaster",1811,Sense and Sensibility,Sense and Sensibility,eng
+77,"Louis Sachar, Louis Sachar",1998,Holes,"Holes (Holes, #1)",eng
+78,Lauren Weisberger,2003,The Devil Wears Prada,"The Devil Wears Prada (The Devil Wears Prada, #1)",eng
+79,"Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",-720,Ὀδύσσεια,The Odyssey,eng
+80,"Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",1946,Le Petit Prince,The Little Prince,eng
+81,Jeannette Walls,2005,The Glass Castle,The Glass Castle,eng
+82,Jon Krakauer,1996,Into the Wild,Into the Wild,eng
+83,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",1859,A Tale of Two Cities,A Tale of Two Cities,eng
+84,Michael Crichton,1990,Jurassic Park,"Jurassic Park (Jurassic Park, #1)",spa
+85,Shel Silverstein,1964,The Giving Tree,The Giving Tree,eng
+86,John Grisham,1989,A Time to Kill,A Time to Kill,eng
+87,"Elie Wiesel, Marion Wiesel",1958,Un di Velt Hot Geshvign,Night (The Night Trilogy #1),eng
+88,John Green,2008,Paper Towns,Paper Towns,en-US
+89,William Goldman,1973,The Princess Bride,The Princess Bride ,en-US
+90,S.E. Hinton,1967,The Outsiders,The Outsiders,en-US
+91,James Dashner,2009,The Maze Runner,"The Maze Runner (Maze Runner, #1)",eng
+92,"Steven D. Levitt, Stephen J. Dubner",2005,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",en-US
+93,Frances Hodgson Burnett,1911,The Secret Garden,The Secret Garden,eng
+94,"Gabriel García Márquez, Gregory Rabassa",1967,Cien años de soledad,One Hundred Years of Solitude,eng
+95,"Oscar Wilde, Jeffrey Eugenides",1891,The Picture of Dorian Gray,The Picture of Dorian Gray,eng
+96,E.L. James,2012,Fifty Shades Freed,"Fifty Shades Freed (Fifty Shades, #3)",eng
+97,"Bram Stoker, Nina Auerbach, David J. Skal",1897,Dracula,Dracula,eng
+98,"Stieg Larsson, Reg Keeland",2006,Flickan som lekte med elden,"The Girl Who Played with Fire (Millennium, #2)",eng
+99,E.L. James,2011,Fifty Shades Darker,"Fifty Shades Darker (Fifty Shades, #2)",eng
